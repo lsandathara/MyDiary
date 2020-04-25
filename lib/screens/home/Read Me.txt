@@ -1,0 +1,8 @@
+User logout wenne natuwa app eka close karala ai reopen karama me pge ekata tamai bn enne
+
+Mekata bn oya hadapu home eka danna
+
+Mama danata Search bar eka haduwe meke
+eh code snippet eka oya oyage listview eka tyena thanata danna
+
+mama methana temporary list ekak hardcode kara search eka wada karanawada balanna
